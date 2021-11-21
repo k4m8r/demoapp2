@@ -1,3 +1,1 @@
-Hi This first file for Git practice
-
-Edited for version 2
+This is a rebase file
